@@ -1,0 +1,14 @@
+- [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)
+    - [OSSU instructions](https://github.com/ossu/computer-science/blob/master/coursepages/spd/README.md)
+
+- [ ] Week 1
+- [ ] Week 2
+- [ ] Week 3
+- [ ] Week 4
+- [ ] Week 5
+- [ ] Week 6
+- [ ] Week 7
+- [ ] Week 8
+- [ ] Week 9
+- [ ] Week 10
+- [ ] Week 11
